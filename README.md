@@ -17,9 +17,9 @@ Clone this repository
 git clone https://github.com/hkhangus/CSC10003_OOP_ShapesParser.git
 cd CSC10003_OOP_ShapesParser
 ```
-Go to `ShapesParser/shapes.txt` to edit data you want.
-Solution config: Release - x64
-Run file `ShapeComplete.sln` with Visual Studio -> Build solution.
+- Go to `ShapesParser/shapes.txt` to edit data you want.
+- Solution config: Release - x64.
+- Run file `ShapeComplete.sln` with Visual Studio -> Build solution.
 ## System Documentation
 
 ## Things can be improved on
