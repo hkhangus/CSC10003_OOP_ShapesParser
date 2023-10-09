@@ -2,7 +2,7 @@
 
 This repository contains final project of Object Oriented Programming course - 21_3.
 
-## Members
+## Author
 - [Nguyễn Huỳnh Hữu Khang](https://github.com/hkhangus)
 
 ## Set up local development
@@ -27,5 +27,5 @@ cd CSC10003_OOP_ShapesParser
 - [ ] Memory management when working with dynamic link library.
 - [ ] Add more shapes.
 
-## Any problem? Contact with us via Facebook
+## Any problem? Contact with me via Facebook
 - [Nguyễn Huỳnh Hữu Khang](https://www.facebook.com/sabochee/)
