@@ -1,0 +1,2 @@
+#define RHOMBUS_API __declspec(dllexport)
+#define RHOMBUS_API __declspec(dllimport)

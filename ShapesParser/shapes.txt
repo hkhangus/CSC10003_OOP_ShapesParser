@@ -1,0 +1,12 @@
+10
+Square: a=12.3
+Square: du lieu bi hu
+Circle: r=17.2
+Circle: r=1fe235
+Rectangle: w=3, h=4.21232121
+Rectangle: ww=6, hh=8.6
+Triangle: a=3, b=4, c=5
+Triangle: a=213, b=a, c=asds
+Rhombus: d1=6, d2=8
+Rhombus: 
+@#312312
