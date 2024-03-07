@@ -21,11 +21,12 @@ cd CSC10003_OOP_ShapesParser
 - Solution config: Release - x64.
 - Run file `ShapeComplete.sln` with Visual Studio -> Build solution.
 ## System Documentation
-
+In folder System Documentation
 ## Things can be improved on
 - [ ] Unit test for each class.
 - [ ] Memory management when working with dynamic link library.
 - [ ] Add more shapes.
 
-## Any problem? Contact with me via Facebook
+## Any problem? Feel free to open new issue or contact with me via Facebook, LinkedIn
 - [Nguyễn Huỳnh Hữu Khang](https://www.facebook.com/sabochee/)
+- [Khang Nguyen](https://www.linkedin.com/in/huu-khang/)
